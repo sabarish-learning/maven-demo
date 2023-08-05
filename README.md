@@ -2,7 +2,7 @@
 
 Clone this to your workspace:
 
-    git clone https://github.com/davidmoten/maven-demo.git
+git clone https://github.com/davidmoten/maven-demo.git
 
 ##Import to Eclipse
 
@@ -20,4 +20,4 @@ To build from the command line (to produce a jar for instance):
     cd maven-demo
     mvn clean install
 
-You'll see the tests have been run and a jar has been built and put in the *target* directory.
+You'll see the tests have been run and a jar has been built and put in the *target* directory..
